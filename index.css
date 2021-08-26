@@ -1,0 +1,47 @@
+.parent-section{
+    display: flex;
+}
+
+.section-1{
+	background-color:blue;
+	
+	width:50%;
+}
+
+.section-2{
+   background-color: red;
+   width: 50%;
+}
+
+ #box{
+	height: 10px;
+	background-color: orange;
+	width: 60px;
+}
+ #section-2-image{
+	background-color: yellow;
+	width: 60%; 
+	padding-top: 5%
+	padding-bottom:5%;
+}
+
+.profile-image{
+width: 40%
+margin-left:10%;
+
+
+
+}
+ #submit_button{
+ 	background -color:blue;
+ 	color:red;
+ 	border:2px yellow;
+ 	border-radius: 10px;
+ 	height: 30px;
+ 	width:40%;
+ 	font-size:30px;
+ }
+ #heading{
+ 	 color:purple;
+font-size: 45px;
+ }
